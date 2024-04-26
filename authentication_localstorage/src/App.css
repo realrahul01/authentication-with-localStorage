@@ -1,0 +1,67 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    color: red;
+}
+
+
+.login{
+    width: 300px;
+    margin: auto;
+    min-height: 280px;
+    box-shadow: 0px 3px 12px rgba(0, 0, 0, 1);
+    border-radius: 8px;
+    margin-top: 40px;
+}
+.login h1{
+    text-align: center;
+}
+
+
+.inp_main{
+    padding: 6px 12px;
+}
+.inp_main input{
+    width: 100%;
+    padding: 3px 0px;
+    outline: none;
+}
+.btn.btn1{
+    margin-top: 25px;
+    width: 100%;
+}
+.error{
+    color: red;
+    font-weight: 600;
+}
+
+.signup{
+    width: 350px;
+    margin: auto;
+    min-height: 420px;
+    box-shadow: 0px 3px 12px rgba(0, 0, 0, 1);
+    border-radius: 8px;
+    margin-top: 40px;
+}
+
+.signup input{
+    width: 100%;
+    padding: 4px;
+}
+
+
+.signup h1{
+    text-align: center;
+}
+
+
+.btn.btn1{
+    margin-top: 25px;
+    width: 100%;
+}
+
+.btn_stl{
+    padding: 6px 12px;
+}
